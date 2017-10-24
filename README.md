@@ -1,3 +1,3 @@
 # burger app
 
-#  Devour Burgers
+## Devour Burgers
